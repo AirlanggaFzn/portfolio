@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Airlangga Fauzan 👋
 
-## Getting Started
+![Profile Banner](https://img.shields.io/badge/Fresh_Graduate-Informatics-blue?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airlanggafzn@gmail.com)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💻 About Me
+I’m a fresh graduate from **Universitas Indraprasta PGRI** with a passion for **IT, data analysis, and web development**. Experienced in **IT support**, **automation**, **data scraping**, and **data visualization**. I love solving technical challenges and turning raw data into meaningful insights.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💼 Work Experience
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### PT. Indekstat Konsultan Indonesia – System and Technology
+*Feb 2024 – Present*  
+- Website Automation: Developed automated reporting systems.  
+- Data Scraping: Built scripts to extract, clean, and structure web data.  
+- Data Analysis & Visualization: Transform raw data into insightful dashboards.  
+- Data Engineering: Designed scalable ETL pipelines and managed datasets.
 
-## Learn More
+### Dinas Lingkungan Hidup Provinsi DKI Jakarta – IT Support
+*Sep 2020 – Nov 2020*  
+- Created and managed local networks.  
+- Performed data backup.  
+- Troubleshooted PCs and electronic devices.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎓 Education
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Universitas Indraprasta PGRI** – Bachelor in Informatics Engineering (2021 – 2025)  
+**SMK 3 Perguruan Cikini** – Computer & Network Engineering (2018 – 2021)  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Skills & Proficiency
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Programming & Development
+- Python 🟩🟩🟩🟩⬜ 80%  
+- Java 🟩🟩🟩⬜⬜ 60%  
+- Django 🟩🟩🟩⬜⬜ 60%  
+- HTML/CSS 🟩🟩🟩🟩⬜ 75%  
+- API Integration 🟩🟩🟩🟩⬜ 75%  
+
+### Data & Analytics
+- Data Processing & Analysis 🟩🟩🟩🟩🟩 90%  
+- Data Visualization (Tableau, Python) 🟩🟩🟩🟩⬜ 80%  
+- Web Scraping 🟩🟩🟩🟩⬜ 80%  
+- BigQuery & Airflow 🟩🟩🟩⬜⬜ 60%  
+
+### Tools
+- Microsoft Office 🟩🟩🟩🟩🟩 100%  
+- Appsheet, Google Looker, SurveyJS.io 🟩🟩🟩⬜⬜ 60%  
+
+---
+
+## 📜 Certifications
+- **Cloud Practitioner Essentials – Dicoding**  
+- **Basic JavaScript Programming – Dicoding**  
+
+---
+
+## 📫 Let's Connect
+Feel free to reach out!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airlanggafzn@gmail.com)
+# portfolio
