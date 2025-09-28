@@ -1,8 +1,11 @@
 import type { Metadata } from 'next'
-import { GeistSans } from 'geist/font/sans'
-import { GeistMono } from 'geist/font/mono'
-import { Analytics } from '@vercel/analytics/next'
+import { Inter, Fira_Code } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react'
 import './globals.css'
+
+// Google Fonts setup
+const geistSans = Inter({ subsets: ['latin'], variable: '--geist-sans' })
+const geistMono = Fira_Code({ subsets: ['latin'], variable: '--geist-mono' })
 
 export const metadata: Metadata = {
   title: 'v0 App',
@@ -17,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
+      <body className={`font-sans ${geistSans.variable} ${geistMono.variable}`}>
         {children}
         <Analytics />
       </body>
